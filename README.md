@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center;">
-  <a href="https://nexa.dev">
-    <img src="./assets/banner.gif" alt="Banner" style="width: 100vw; max-width: 100%;" />
+  <a>
+    <img src="./banner.gif" alt="Banner" style="width: 100vw; max-width: 100%;" />
   </a>
 </div>
 

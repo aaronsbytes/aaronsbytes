@@ -1,11 +1,13 @@
-# aaronsbytes ~# ❚
+<img src="https://raw.githubusercontent.com/aaronsbytes/aaronsbytes/refs/heads/main/banner.png"></img>
 
-23-year-old fullstack developer // amateur hacker from Germany. 
-I'm interested in Linux, open-source, privacy, security, hacking and malware.
+# 🪷 aaron ~# ❚
+23-year-old system administrator // amateur hacker from Germany.
+I'm interested in Linux, selfhosting, open-source, privacy, security and hacking.
+Mostly working on my servers. Sometimes doing some side projects.
 
-If you want to get in touch, contact me over signal or get to know me on mastodon.
+👋 You can reach out to me via
 ```yml
 Signal:  aaronsbytes.01
-PGP:     D393 ECEA EA0D DD97 DCBD F716 C967 E18E 2436 7C75
 Email:   hi@lotusnet.work
+PGP:     D393 ECEA EA0D DD97 DCBD F716 C967 E18E 2436 7C75
 ```

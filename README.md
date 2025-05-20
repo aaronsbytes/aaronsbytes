@@ -7,5 +7,5 @@ If you want to get in touch, contact me over signal or get to know me on mastodo
 ```yml
 Signal:  aaronsbytes.01
 PGP:     D393 ECEA EA0D DD97 DCBD F716 C967 E18E 2436 7C75
-Email:   hello@nexa.dev
+Email:   hi@lotusnet.work
 ```

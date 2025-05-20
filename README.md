@@ -1,6 +1,6 @@
 # aaronsbytes ~# ❚
 
-22-year-old fullstack developer // amateur hacker from Germany. 
+23-year-old fullstack developer // amateur hacker from Germany. 
 I'm interested in Linux, open-source, privacy, security, hacking and malware.
 
 If you want to get in touch, contact me over signal or get to know me on mastodon.

@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/aaronsbytes/aaronsbytes/refs/heads/main/banner.png"></img>
 
-# 🪷 aaron ~# ❚
-23-year-old system administrator // amateur hacker from Germany.
+# aaron ~# <img height="30px" width="25px" src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/183/756/original/ef1fef640cd4fb12.png"></img>
+
+🪷 23-year-old system administrator // amateur hacker from Germany.
 I'm interested in Linux, selfhosting, open-source, privacy, security and hacking.
 Mostly working on my servers. Sometimes doing some side projects.
 

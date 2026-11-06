@@ -1,14 +1,23 @@
-<img src="https://raw.githubusercontent.com/aaronsbytes/aaronsbytes/refs/heads/main/banner.png"></img>
+# ~# 👋 Hello there.<img height="38px" width="25px" src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/183/756/original/ef1fef640cd4fb12.png"></img>
 
-# aaron ~# <img height="30px" width="25px" src="https://media.infosec.exchange/infosec.exchange/custom_emojis/images/000/183/756/original/ef1fef640cd4fb12.png"></img>
+I'm **Aaron**, a 24-year-old **SysAdmin** *//* **Dev** *//* **Neighborhood Hacker** from 🇩🇪 Germany.
 
-🪷 23-year-old system administrator // amateur hacker from Germany.
-I'm interested in Linux, selfhosting, open-source, privacy, security and hacking.
-Mostly working on my servers. Sometimes doing some side projects.
+👀 My interests revolve around:
+```
+- 🐧 Linux & NixOS
+- 🏠 Selfhosting
+- 🫶 Free and Open Source Software (FOSS)
+- 🔐 Privacy, Security & Digital Sovereignty
+```
 
-👋 You can reach out to me via
+😄 I'm the proud Administrator of [Hydra Network](https://github.com/hydranet-work), my fully private, E2EE Mesh Network & Ecosystem, successfully running everything from **Agentic Workflows**, **SSO**, and **Observability** to my own **Mailserver** 😎.
+
+<br/>
+🤞 I believe in understanding the systems I work with, keeping things transparent, and building infrastructure <ins>that is maintainable, reproducible, and thoughtfully designed.</ins>
+
+<br/><br/>
+👋 You can reach out to me via [Signal](https://signal.org) or [Email](mailto://hi@hydranet.work).
 ```yml
+Email:   hi@hydranet.work
 Signal:  aaronsbytes.01
-Email:   hi@lotusnet.work
-PGP:     D393 ECEA EA0D DD97 DCBD F716 C967 E18E 2436 7C75
 ```

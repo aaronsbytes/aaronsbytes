@@ -12,6 +12,8 @@ I'm **Aaron**, a 24-year-old **SysAdmin** *//* **Dev** *//* **Neighborhood Hacke
 
 😄 I'm the proud Administrator of [Hydra Network](https://github.com/hydranet-work), my fully private, E2EE Mesh Network & Ecosystem, successfully running everything from **Agentic Workflows**, **SSO**, and **Observability** to my own **Mailserver** 😎.
 
+<img src="banner.png" />
+
 <br/>
 🤞 I believe in understanding the systems I work with, keeping things transparent, and building infrastructure <ins>that is maintainable, reproducible, and thoughtfully designed.</ins>
 
